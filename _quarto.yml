@@ -1,0 +1,50 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!publications/_template/"
+    - "!people/_template/"
+
+website:
+  title: "DRIVEWISE"
+  description: "Research Group focused on Phisically Informed Neural Networks for Mechanical and Mechatronic Systems"
+  favicon: /assets/images/Neurobotic-drive-lab-logo-square.png
+  margin-header: |
+    ![](/assets/images/Neurobotic-drive-lab-logo-square.png)
+  # image: /assets/images/<file>.png
+  site-url: https://DRIVEWISE.github.io/<repository>
+  repo-url: https://github.com/DRIVEWISE/<repository>
+  repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    left: |
+      Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) .
+    center: |
+      &copy; []{#current-year} created by Mattia Piazza.
+    right: |
+      License: [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: contacts.qmd
+        text: Contacts
+
+format:
+  html:
+    theme:
+      - darkly
+      # - slate
+      - brand
+    css: styles.css
+    toc: true
+
+
+
+
