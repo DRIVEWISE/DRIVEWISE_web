@@ -1,10 +1,122 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DRIVEWISE Research Group",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Welcome to the DRIVEWISE Research Group website!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems.\n\n\n\n Back to top"
+    "text": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/taddei-sebastiano/index.html#education",
+    "href": "people/taddei-sebastiano/index.html#education",
+    "title": "Sebastiano Taddei",
+    "section": "Education",
+    "text": "Education\nPh.D. in Autonomous Systems | Polytechnic University of Bari | 2026 MSc in Autonomous Systems | University of Trento | 2022 BSc in Industrial Engineering | University of Trento | 2020"
+  },
+  {
+    "objectID": "people/taddei-sebastiano/index.html#s-group-publications",
+    "href": "people/taddei-sebastiano/index.html#s-group-publications",
+    "title": "Sebastiano Taddei",
+    "section": "Sebastiano’s Group Publications",
+    "text": "Sebastiano’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/piccinini-mattia/index.html#education",
+    "href": "people/piccinini-mattia/index.html#education",
+    "title": "Mattia Piccinini",
+    "section": "Education",
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
+  },
+  {
+    "objectID": "people/piccinini-mattia/index.html#group-publications",
+    "href": "people/piccinini-mattia/index.html#group-publications",
+    "title": "Mattia Piccinini",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/pagot-edoardo/index.html#education",
+    "href": "people/pagot-edoardo/index.html#education",
+    "title": "Edoardo Pagot",
+    "section": "Education",
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2021 M.S. Mechatronics Engineering | University of Trento | 2017 B.S. Mechanical Engineering | University of Padua | 2014"
+  },
+  {
+    "objectID": "people/pagot-edoardo/index.html#group-publications",
+    "href": "people/pagot-edoardo/index.html#group-publications",
+    "title": "Edoardo Pagot",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Francesco Biral \n            \n               \n            \n              Full Professor\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Enrico Bertolazzi \n            \n               \n            \n              Associate Professor\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#principal-investigators",
+    "href": "people/index.html#principal-investigators",
+    "title": "Our Team",
+    "section": "",
+    "text": "Francesco Biral \n            \n               \n            \n              Full Professor\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Enrico Bertolazzi \n            \n               \n            \n              Associate Professor\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#research-scientists",
+    "href": "people/index.html#research-scientists",
+    "title": "Our Team",
+    "section": "Research Scientists",
+    "text": "Research Scientists\n\n\nPostdocs and Researchers\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Davide Stocco \n            \n               \n            \n              PhD Candidate\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Mattia Piazza \n            \n               \n            \n              PhD Candidate\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Sebastiano Taddei \n            \n               \n            \n              Research fellow\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#phd-students",
+    "href": "people/index.html#phd-students",
+    "title": "Our Team",
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Giacomo Corradini \n            \n               \n            \n              PhD student\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Filippo Faccini \n            \n               \n            \n              PhD student\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#former-members",
+    "href": "people/index.html#former-members",
+    "title": "Our Team",
+    "section": "Former Members",
+    "text": "Former Members\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Matteo Larcher \n            \n               \n            \n              PhD Research Fellow\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Edoardo Pagot \n            \n               \n            \n              PhD Research Fellow\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Mattia Piccinini \n            \n               \n            \n              Humboldt Post-doctoral Researcher, Technical University of Munich\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/corradini-giacomo/index.html#education",
+    "href": "people/corradini-giacomo/index.html#education",
+    "title": "Giacomo Corradini",
+    "section": "Education",
+    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2023 BSc in Industrial Engineering | University of Trento | 2020"
+  },
+  {
+    "objectID": "people/corradini-giacomo/index.html#s-group-publications",
+    "href": "people/corradini-giacomo/index.html#s-group-publications",
+    "title": "Giacomo Corradini",
+    "section": "Giacomo’s Group Publications",
+    "text": "Giacomo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/bertolazzi-enrico/index.html#education",
+    "href": "people/bertolazzi-enrico/index.html#education",
+    "title": "Enrico Bertolazzi",
+    "section": "Education",
+    "text": "Education\nPhD"
+  },
+  {
+    "objectID": "people/bertolazzi-enrico/index.html#group-publications",
+    "href": "people/bertolazzi-enrico/index.html#group-publications",
+    "title": "Enrico Bertolazzi",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "francesco.biral@unitn.it\n\n\n   +39 0461 282513\n\n\n   Department of Industrial Engineering, Via Sommarive 9, 38123, Trento (TN), Italy\nDepartment of Industrial Engineering | University of Trento\n\n\n    \n  \n\n\n123moviesmap for website\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -14,10 +126,80 @@
     "text": "Welcome to the DRIVEWISE Research Group!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems.\n\n\n\n Back to top"
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contacts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DRIVEWISE Research Group",
     "section": "",
-    "text": "francesco.biral@unitn.it\n\n\n   +39 0461 282513\n\n\n   Department of Industrial Engineering, Via Sommarive 9, 38123, Trento (TN), Italy\nDepartment of Industrial Engineering | University of Trento\n\n\n    \n  \n\n\n123moviesmap for website\n\n\n\n\n\n Back to top"
+    "text": "Welcome to the DRIVEWISE Research Group website!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/biral-francesco/index.html#education",
+    "href": "people/biral-francesco/index.html#education",
+    "title": "Francesco Biral",
+    "section": "Education",
+    "text": "Education\nPhD"
+  },
+  {
+    "objectID": "people/biral-francesco/index.html#group-publications",
+    "href": "people/biral-francesco/index.html#group-publications",
+    "title": "Francesco Biral",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/filippo-faccini/index.html#education",
+    "href": "people/filippo-faccini/index.html#education",
+    "title": "Filippo Faccini",
+    "section": "Education",
+    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2025 BSc in Industrial Engineering | University of Trento | 2022"
+  },
+  {
+    "objectID": "people/filippo-faccini/index.html#s-group-publications",
+    "href": "people/filippo-faccini/index.html#s-group-publications",
+    "title": "Filippo Faccini",
+    "section": "Filippo’s Group Publications",
+    "text": "Filippo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/larcher-matteo/index.html#education",
+    "href": "people/larcher-matteo/index.html#education",
+    "title": "Matteo Larcher",
+    "section": "Education",
+    "text": "Education\nPhD in Industrial Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
+  },
+  {
+    "objectID": "people/larcher-matteo/index.html#group-publications",
+    "href": "people/larcher-matteo/index.html#group-publications",
+    "title": "Matteo Larcher",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/piazza-mattia/index.html#education",
+    "href": "people/piazza-mattia/index.html#education",
+    "title": "Mattia Piazza",
+    "section": "Education",
+    "text": "Education\n M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Udine | 2017"
+  },
+  {
+    "objectID": "people/piazza-mattia/index.html#group-publications",
+    "href": "people/piazza-mattia/index.html#group-publications",
+    "title": "Mattia Piazza",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/stocco-davide/index.html#education",
+    "href": "people/stocco-davide/index.html#education",
+    "title": "Davide Stocco",
+    "section": "Education",
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2024 M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Padua | 2017"
+  },
+  {
+    "objectID": "people/stocco-davide/index.html#group-publications",
+    "href": "people/stocco-davide/index.html#group-publications",
+    "title": "Davide Stocco",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
   }
 ]
