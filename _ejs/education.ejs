@@ -1,0 +1,11 @@
+<% if (items && items.length > 0) { %>
+  <% items.forEach(item => { %>
+    <% if (item.education && Array.isArray(item.education)) { %>
+      <% item.education.forEach(edu => { %>
+<%= edu %>  
+      <% }); %>
+    <% } else if (item.education) { %>
+<%= item.education %>  
+    <% } %>
+  <% }); %>
+<% } %>

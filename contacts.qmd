@@ -8,7 +8,7 @@ about:
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; francesco.biral@unitn.it
+#### [{{< fa envelope >}} &nbsp; francesco.biral@unitn.it](mailto:francesco.biral@unitn.it)
 
 #### {{< fa phone >}} &nbsp; +39 0461 282513
 

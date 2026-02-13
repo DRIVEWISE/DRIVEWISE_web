@@ -1,0 +1,55 @@
+---
+title: &TITLE Matteo Larcher
+last: Larcher
+first: Matteo
+people_group: "former"
+seniority: 2
+email: ""
+education:
+  phd: PhD in Industrial Engineering | University of Trento | 2023
+  msc: M.S. Mechatronics Engineering | University of Trento | 2019
+  bsc: B.S. Mechanical Engineering | University of Padua | 2017
+subtitle: "PhD Research Fellow"
+description: ""
+project: ""
+affiliation: University of Trento
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Matteo Larcher received a master's degree in mechatronics engineering at the University of Trento, where he is currently working on vehicle dynamic models for real-time applications as part of his PhD research program. His research interests are multi-body modeling of mechanical systems and hardware-in-the-loop simulations.
+
+## Education
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+<br>
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

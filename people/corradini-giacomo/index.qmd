@@ -1,0 +1,58 @@
+---
+title: &TITLE Giacomo Corradini ##
+last: Corradini ##
+first: Giacomo ##
+people_group: "phdstudent" ## "postdoc | gradstudent | alumni | pi | student" #
+email: giacomo.corradini@unitn.it ##
+education:
+  phd: ""
+  msc: MSc in Mechatronics Engineering | University of Trento | 2023
+  bsc: BSc in Industrial Engineering | University of Trento | 2020
+subtitle: "PhD student"
+description: "" ## Short description (optional) ##
+image: avatar.jpeg
+listing:
+  - id: pubs
+    template: ../../_ejs/publications-people.ejs 
+    contents: 
+      - "../../../publications/**/*.qmd"
+      - "!../../../publications/_template/"
+    sort: "pub_number desc"
+    # sort-ui: true
+    filter-ui: true
+    include:
+      author: *TITLE
+    fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:giacomo.corradini@unitn.it 
+---
+
+<hr>
+
+
+:::{#about}
+
+
+Giacomo Corradini is a PhD student at the University of Trento (Italy). He received his master’s degree in Mechatronics Engineering from the University of Trento in 2023. His research focuses on optimal control and driving style modeling for racing vehicles.
+
+## Education
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::

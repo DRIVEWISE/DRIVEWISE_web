@@ -1,0 +1,59 @@
+---
+title: &TITLE Enrico Bertolazzi
+last: Bertolazzi
+first: Enrico
+people_group: "pi"
+seniority: 2
+email: "enrico.bertolazzi@unitn.it"
+education:
+  phd: "PhD"
+  msc: ""
+  bsc: ""  
+subtitle: "Associate Professor"
+description: ""
+affiliation: University of Trento
+image: avatar.jpg
+listing:
+  - id: pubs
+    template: ../../_ejs/publications-people.ejs 
+    contents: 
+      - "../../../publications/**/*.qmd"
+      - "!../../../publications/_template/"
+    sort: "pub_number desc"
+    # sort-ui: true
+    filter-ui: true
+    include:
+      author: *TITLE
+    fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:enrico.bertolazzi@unitn.it
+---
+
+<hr>
+
+
+:::{#about}
+
+Enrico Bertolazzi received the master’s degree cum laude in mathematics from the University of Trento, Italy. He is currently an Associate Professor in Numerical Analysis with the Department of Industrial Engineering at the University of Trento. His research interests are mainly in the field of numerical analysis and include the development of numerical algorithms for the numerical solution of optimal control problems mainly with indirect methods.
+
+## Education
+
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+<br>
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

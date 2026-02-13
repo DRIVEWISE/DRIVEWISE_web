@@ -1,0 +1,90 @@
+---
+title: "Our Team"
+listing:
+  - id: pi
+    include: 
+      people_group: "pi"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: seniority
+    type: grid
+    fields: [seniority,title, subtitle, image, education]
+  - id: AssistantProf
+    include: 
+      people_group: "AssistantProf"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: PostDoc
+    include: 
+      people_group: "PostDoc"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: [seniority,last]
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: phdstudent
+    include: 
+      people_group: "phdstudent"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: former
+    include: 
+      people_group: "former"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+page-layout: full
+---
+
+
+## Principal Investigators
+
+
+::: {#pi}
+:::
+
+
+:::{.sand-background}
+## Research Scientists
+
+<!-- ### Assistant Professors
+
+::: {#AssistantProf}
+::: -->
+
+### Postdocs and Researchers
+
+::: {#PostDoc}
+:::
+
+:::
+
+## PhD Students 
+
+::: {#phdstudent}
+:::
+
+
+:::{.sand-background}
+## Former Members
+
+::: {#former}
+:::
+
+:::
+
+
+

@@ -30,15 +30,19 @@
                 
             
               
-              <div class="listing-box-education">
+              <!-- <div class="listing-box-education">
                 
                 <% if (item.education) { %>
-                  <%= item.education %><br>
-                  <%} else { %>
-                    <p>  </p>
-                    <% } %>
+  <% if (Array.isArray(item.education)) { %>
+    <%= item.education[0] %><br>
+  <% } else { %>
+    <%= item.education %><br>
+  <% } %>
+<%} else { %>
+  <p>  </p>
+<% } %>
                     
-              </div>  
+              </div>   -->
                   
 
             

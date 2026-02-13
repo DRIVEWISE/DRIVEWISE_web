@@ -1,0 +1,55 @@
+---
+title: &TITLE Edoardo Pagot
+last: Pagot
+first: Edoardo
+people_group: "former"
+seniority: 2
+email: ""
+education:
+  phd: PhD in Mechatronics and System Engineering | University of Trento | 2021
+  msc: M.S. Mechatronics Engineering | University of Trento | 2017
+  bsc: B.S. Mechanical Engineering | University of Padua | 2014
+subtitle: "PhD Research Fellow"
+description: ""
+project: ""
+affiliation: University of Trento
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Edoardo Pagot received the M.S. degree in mechatronics engineering in 2018 and the Ph.D. degree cum laude in mechatronics engineering in 2023, both from the University of Trento, Italy. <br>He is currently a research fellow within the Department of Industrial Engineering at the University of Trento. <br> His research interests include multi-body dynamics modeling and optimal control (online and offline) in the field of vehicle dynamics, for both intelligent transportation and Motorsport sectors.
+
+## Education
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+<br>
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

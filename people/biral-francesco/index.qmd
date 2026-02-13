@@ -1,0 +1,59 @@
+---
+title: &TITLE Francesco Biral
+last: Biral
+first: Francesco
+people_group: "pi"
+seniority: 1
+email: "francesco.biral@unitn.it"
+education:
+  phd: "PhD"
+  msc: ""
+  bsc: ""  
+subtitle: "Full Professor"
+description: ""
+affiliation: University of Trento
+image: avatar.jpg
+listing:
+  - id: pubs
+    template: ../../_ejs/publications-people.ejs 
+    contents: 
+      - "../../../publications/**/*.qmd"
+      - "!../../../publications/_template/"
+    sort: "pub_number desc"
+    # sort-ui: true
+    filter-ui: true
+    include:
+      author: *TITLE
+    fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:francesco.biral@unitn.it
+---
+
+<hr>
+
+
+:::{#about}
+
+Francesco Biral received the master’s degree in mechanical engineering from the University of Padova, Italy, and the Ph.D. degree in mechanism and machine theory from the University of Brescia, Italy, in 2000 for his work on minimum lap time of racing vehicles with the use of optimal control. He is currently an Associate Professor with the Department of Industrial Engineering at the University of Trento. His research interests include symbolic and numerical multi-body dynamics and optimization, constrained optimal control, mainly in the field of vehicle dynamics with special focus on intelligent vehicles and optimal maneuver for racing vehicles. He has 15 years experience in the development and validation of ADAS and AD functions, both for cars and PTWs, gained in several European and industrial funded research projects.
+
+## Education
+
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+<br>
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

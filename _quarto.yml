@@ -21,8 +21,8 @@ website:
   back-to-top-navigation: true
   page-footer:
     border: true
-    left: |
-      Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) .
+    # left: |
+    #   Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) .
     center: |
       &copy; []{#current-year} created by Mattia Piazza.
     right: |
@@ -33,6 +33,10 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: people/index.qmd
+        text: People
+      - href: publications/index.qmd
+        text: Publications
       - href: contacts.qmd
         text: Contacts
 

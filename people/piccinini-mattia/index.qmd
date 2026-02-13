@@ -1,0 +1,61 @@
+---
+title: &TITLE Mattia Piccinini
+last: Piccinini
+first: Mattia
+people_group: "former"
+seniority: 1
+email: "mattia.piccinini@tum.it"
+education:
+  phd: PhD in Mechatronics and System Engineering | University of Trento | 2023
+  msc: M.S. Mechatronics Engineering | University of Trento | 2019
+  bsc: B.S. Mechanical Engineering | University of Padua | 2017
+subtitle: "Humboldt Post-doctoral Researcher, Technical University of Munich" 
+description: ""
+affiliation: TUM
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mattia.piccinini@tum.it
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?user=xtgKwEoAAAAJ&hl=en&oi=ao
+---
+
+<hr>
+
+
+:::{#about}
+
+Mattia Piccinini received a B.Sc. in industrial engineering and an M.Sc. in mechatronics engineering, both cum laude and both from the University of Trento, Italy, respectively in 2017 and 2019. He is currently a Ph.D. student at the University of Trento, Italy. From March to June 2022, he was a visiting Ph.D. student at the Universität der Bundeswehr, Munich, Germany. His research focuses on motion planning, control and state estimation methods for racing autonomous vehicles.
+
+## Education
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

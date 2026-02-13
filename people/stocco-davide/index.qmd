@@ -1,0 +1,64 @@
+---
+title: &TITLE Davide Stocco
+last: Stocco
+first: Davide
+people_group: "PostDoc"
+seniority: 1
+email: "davide.stocco@unitn.it"
+education:
+  phd: PhD in Mechatronics and System Engineering | University of Trento | 2024
+  msc: M.S. Mechatronics Engineering | University of Trento | 2020
+  bsc: B.S. Mechanical Engineering | University of Padua | 2017
+subtitle: "PhD Candidate" # in System Engineering"
+description: ""
+affiliation: University of Trento
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:davide.stocco@unitn.it
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?user=dKsB6rYAAAAJ&hl=en&oi=ao
+    - icon: github
+      text: GitHub 
+      href: https://github.com/StoccoDavide
+---
+
+<hr>
+
+
+:::{#about}
+
+Davide Stocco received a master’s degree in mechatronics engineering at the University of Trento, where he is currently working on DAEs index reduction and integration algorithms as part of his PhD research program. His research interests are tire/road interaction and tire modeling, and ODEs/DAEs numerical integration methods for real-time applications. 
+
+## Education
+{{< meta education.phd >}}
+{{< meta education.msc >}}
+{{< meta education.bsc >}}
+
+
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::
