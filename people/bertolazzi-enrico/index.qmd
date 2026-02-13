@@ -6,8 +6,8 @@ people_group: "pi"
 seniority: 2
 email: "enrico.bertolazzi@unitn.it"
 education:
-  phd: "PhD"
-  msc: ""
+  phd: "PhD in Mathematics | University of Trento | 1995"
+  msc: "MSc in Mathematics | University of Trento | 1990"
   bsc: ""  
 subtitle: "Associate Professor"
 description: ""

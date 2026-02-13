@@ -6,8 +6,8 @@ people_group: "pi"
 seniority: 1
 email: "francesco.biral@unitn.it"
 education:
-  phd: "PhD"
-  msc: ""
+  phd: "PhD in Mechanical Engineering | University of Padua | 2000"
+  msc: "MSc in Mechanical Engineering | University of Padua | 1997"
   bsc: ""  
 subtitle: "Full Professor"
 description: ""
