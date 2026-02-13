@@ -102,7 +102,7 @@
     "href": "people/bertolazzi-enrico/index.html#education",
     "title": "Enrico Bertolazzi",
     "section": "Education",
-    "text": "Education\nPhD"
+    "text": "Education\nPhD in Mathematics | University of Trento | 1995 MSc in Mathematics | University of Trento | 1990"
   },
   {
     "objectID": "people/bertolazzi-enrico/index.html#group-publications",
@@ -137,7 +137,7 @@
     "href": "people/biral-francesco/index.html#education",
     "title": "Francesco Biral",
     "section": "Education",
-    "text": "Education\nPhD"
+    "text": "Education\nPhD in Mechanical Engineering | University of Padua | 2000 MSc in Mechanical Engineering | University of Padua | 1997"
   },
   {
     "objectID": "people/biral-francesco/index.html#group-publications",
@@ -201,5 +201,12 @@
     "title": "Davide Stocco",
     "section": "Group Publications",
     "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
+    "href": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
+    "title": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper presents a hierarchical framework with novel analytical and neural physics-driven models, to enable the online planning and tracking of minimum-time maneuvers, for a vehicle with partially-unknown parameters. We introduce a lateral speed prediction model for high-level motion planning with economic nonlinear model predictive control (E-NMPC). A low-level steering controller is developed with a novel feedforward-feedback physics-driven artificial neural network (NN). A longitudinal dynamic model is identified to tune a low-level speed-tracking controller. The high- and low-level control models are identified with an automatic three-step scheme, combining open-loop and closed-loop maneuvers to model the maximum acceleration G-G-v performance constraint for E-NMPC, and to capture the effect of the longitudinal acceleration on the lateral dynamics. The proposed framework is used in a simulation environment, for the online closed-loop control of a highly detailed sedan vehicle simulator, whose parameters are partially-unknown. Two different circuits are adopted to validate the approach, and a robustness analysis is performed by varying the vehicle mass and the load distribution. A minimum-time optimal control problem is solved offline and used for a comparison with the closed-loop results.”"
   }
 ]
