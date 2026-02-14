@@ -1,5 +1,18 @@
 ---
 title: "DRIVEWISE Research Group"
+# margin-header: ""
+about:
+  template: jolla
+  image: assets/images/Neurobotic-drive-lab-logo-square.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+website:
+  margin-header: ""
 ---
 
 Welcome to the DRIVEWISE Research Group website! 

@@ -9,16 +9,16 @@ website:
   title: "DRIVEWISE"
   description: "Research Group focused on Phisically Informed Neural Networks for Mechanical and Mechatronic Systems"
   favicon: /assets/images/Neurobotic-drive-lab-logo-square.png
-  margin-header: |
-    ![](/assets/images/Neurobotic-drive-lab-logo-square.png)
+  # margin-header: |
+  #   ![](/assets/images/Neurobotic-drive-lab-logo-square.png)
   # image: /assets/images/<file>.png
-  site-url: https://DRIVEWISE.github.io/<repository>
-  repo-url: https://github.com/DRIVEWISE/<repository>
+  site-url: https://DRIVEWISE.github.io/
+  repo-url: https://github.com/DRIVEWISE/DRIVEWISE.github.io
   repo-actions: [edit, issue]
   open-graph: true
   twitter-card: true
   page-navigation: true
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   page-footer:
     border: true
     # left: |

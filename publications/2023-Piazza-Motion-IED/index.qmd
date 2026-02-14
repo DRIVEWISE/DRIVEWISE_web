@@ -1,0 +1,29 @@
+---
+title: "Motion Primitive Tree Planner MPTree"
+author: [ "Mattia Piazza", "Mattia Piccinini", "Francesco Biral" , "Mauro Da Lio"]
+publication: "Industrial Engineering Day, University of Trento, Italy"
+categories: 
+  - "Poster"
+  - "Poster Session"
+  - "DII PhD Day"
+  - "Industrial Engineering Day"
+type: poster
+url_source: 
+url_preprint: 
+journ: "Industrial Engineering Day, University of Trento, Italy"
+issue: 
+page: 
+# doi: 
+year: 2023
+video: 
+pdf: poster.pdf
+image: poster.svg
+---
+
+The MPTREE is a motion primitive tree exploration algorithm for trajectory planning with dynamic obstacle avoidance with cooperative interface via V2X with other agents. The algorithm is based on tree exploration via optimal maneuvers.
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 145%; /* A4 portrait ratio (1:1.414) */">
+  <embed src="./{{< meta pdf >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```

@@ -1,0 +1,37 @@
+---
+title: "MPTREE: Motion primitive tree exploration for trajectory planning with dynamic obstacle avoidance"
+author: [ "Mattia Piazza", "Mattia Piccinini"]
+publication: "Industrial Engineering Day, University of Trento, Italy"
+categories: 
+  - "Poster"
+  - "Poster Session"
+  - "DII PhD Day"
+  - "Industrial Engineering Day"
+type: poster
+url_source: 
+url_preprint: 
+journ: "Industrial Engineering Day, University of Trento, Italy"
+issue: 
+page: 
+# doi: 
+year: 2022
+video: 
+pdf: poster.pdf
+image: poster.svg
+---
+
+
+The MPTREE is a motion primitive tree exploration algorithm for trajectory planning with dynamic obstacle avoidance. The algorithm is based on the exploration of the vehicle state space by means of a tree. The algorithm is able to generate trajectories in real-time and to avoid dynamic obstacles.
+
+The motion planning and decision-making algorithms have to satisfy the following high level goals:
+
+  1. Generate trajectories (path plus speed profiles and actuation commands) to navigate autonomously in complex urban scenario.
+  2. Consider communicated by other vehicles or use advance motion prediction models of other road users.
+  3. Change the type of maneuver generated according to different vehicle categories (e.g. cars vs trucks) and according to different safety and comfort criteria.
+   
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 145%; /* A4 portrait ratio (1:1.414) */">
+  <embed src="./{{< meta pdf >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```
+

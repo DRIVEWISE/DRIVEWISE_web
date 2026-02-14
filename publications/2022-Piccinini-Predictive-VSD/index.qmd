@@ -1,0 +1,27 @@
+---
+title: "A Predictive Neural Hierarchical Framework for On-line Time-Optimal Motion Planning and Control of Black-Box Vehicle Models"
+authors:  ["Matteo Larcher", "Mattia Piccinini", "Edoardo Pagot", "Davide Piscini", "Leone Pasquato", "Francesco Biral"]
+publication: "Vehicle System Dynamics, vol. 61, n. 1, pp. 83–110"
+categories: 
+  - "Publications"
+  - "Journal Articles"
+type: "journal"
+url_source: 
+url_preprint:
+journ: "IEEE Transactions on Intelligent Transportation Systems"
+issue: "vol. 61 n 1"
+page: "pp. 83-110"
+doi: 10.1080/00423114.2022.2035776
+year: 2022
+video: h5eW01xXWaw #  false or youtube video id
+# pdf: 
+---
+
+## Video
+
+{{< video https://www.youtube.com/watch?v=h5eW01xXWaw >}}
+
+
+## Abstract
+
+This paper addresses the on-line minimum-time motion planning and control of a black-box racing vehicle model. We present a hierarchical control framework, composed of a high-level non-linear model predictive controller (NMPC) based on an advanced kineto-dynamical vehicle model, a low-level neural network to compute the inverse steering dynamics and a longitudinal controller for the low-level tracking of speed profiles. An off-line identification procedure, consisting of simulated manoeuvres, is defined to learn the high-level and low-level models. A closed-loop simulation is setup to control the black-box vehicle near the limits of handling along a racetrack. Simulation results are compared with the off-line solution of a minimum-time-optimal control problem.
