@@ -1,52 +1,185 @@
 [
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
+    "objectID": "publications/index.html#journals",
+    "href": "publications/index.html#journals",
     "title": "Publications",
+    "section": "Journals",
+    "text": "Journals\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 124163-124180 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Robust and Sample-Efficient Estimation of Vehicle Lateral Velocity Using Neural Networks With Explainable Structure Informed by Kinematic Principles\n            \n            \n            \n                \n                    Mauro Da Lio, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 12, pp. 13670-13684 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Predictive Neural Hierarchical Framework for On-line Time-Optimal Motion Planning and Control of Black-Box Vehicle Models\n            \n            \n            \n                \n                     \n            \n            \n            \n                \n                    IEEE Transactions on Intelligent Transportation Systems, vol. 61 n 1, pp. 83-110 (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#conferences",
+    "href": "publications/index.html#conferences",
+    "title": "Publications",
+    "section": "Conferences",
+    "text": "Conferences\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Alice Plebe, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop, pp. 2390-2396 (2020)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#posters",
+    "href": "publications/index.html#posters",
+    "title": "Publications",
+    "section": "Posters",
+    "text": "Posters\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Artificial Race Driver\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Motion Primitive Tree Planner MPTree\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini, \n                    Francesco Biral, \n                    Mauro Da Lio \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                MPTREE: Motion primitive tree exploration for trajectory planning with dynamic obstacle avoidance\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "publications/2023-Piccinini-ARD-IED/index.html",
+    "href": "publications/2023-Piccinini-ARD-IED/index.html",
+    "title": "Artificial Race Driver",
     "section": "",
-    "text": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items\n\n\n\n\n\n Back to top"
+    "text": "The Artificial Race Driver (ARD) is a framework to plan extreme manouvre for racing autonomous vehicles in an obstacle free scenario."
   },
   {
-    "objectID": "people/taddei-sebastiano/index.html#education",
-    "href": "people/taddei-sebastiano/index.html#education",
-    "title": "Sebastiano Taddei",
+    "objectID": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
+    "href": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
+    "title": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper presents a hierarchical framework with novel analytical and neural physics-driven models, to enable the online planning and tracking of minimum-time maneuvers, for a vehicle with partially-unknown parameters. We introduce a lateral speed prediction model for high-level motion planning with economic nonlinear model predictive control (E-NMPC). A low-level steering controller is developed with a novel feedforward-feedback physics-driven artificial neural network (NN). A longitudinal dynamic model is identified to tune a low-level speed-tracking controller. The high- and low-level control models are identified with an automatic three-step scheme, combining open-loop and closed-loop maneuvers to model the maximum acceleration G-G-v performance constraint for E-NMPC, and to capture the effect of the longitudinal acceleration on the lateral dynamics. The proposed framework is used in a simulation environment, for the online closed-loop control of a highly detailed sedan vehicle simulator, whose parameters are partially-unknown. Two different circuits are adopted to validate the approach, and a robustness analysis is performed by varying the vehicle mass and the load distribution. A minimum-time optimal control problem is solved offline and used for a comparison with the closed-loop results.”"
+  },
+  {
+    "objectID": "publications/2023-DaLio-Robust-IEEETransactions/index.html",
+    "href": "publications/2023-DaLio-Robust-IEEETransactions/index.html",
+    "title": "Robust and Sample-Efficient Estimation of Vehicle Lateral Velocity Using Neural Networks With Explainable Structure Informed by Kinematic Principles",
+    "section": "",
+    "text": "This paper presents kinematics-structured neural networks (KS-NN) for the lateral speed estimation of vehicles. The internal structure of the networks is designed to incorporate the kinematic principles, enhancing the physical explainability and generalization capacity. Both the internal structure and training method are devised for better generalization performance. Various linear and nonlinear variants of our estimator are assessed for accuracy and robustness. The approach is validated using an openly accessible dataset with two race cars. The performance of the novel networks is evaluated against Luenberger, neural network, factor graph and Kalman filter estimators from the literature. In comparison with a Luenberger kinematic observer, our networks improve noise rejection, and overcome the well-known observability problem for low yaw rates. Compared to existing neural network estimators, our networks exhibit better generalization capacity, are more sample-efficient, require fewer learnable parameters, and their structure is physically explainable."
+  },
+  {
+    "objectID": "publications/2023-DaLio-Robust-IEEETransactions/index.html#abstract",
+    "href": "publications/2023-DaLio-Robust-IEEETransactions/index.html#abstract",
+    "title": "Robust and Sample-Efficient Estimation of Vehicle Lateral Velocity Using Neural Networks With Explainable Structure Informed by Kinematic Principles",
+    "section": "",
+    "text": "This paper presents kinematics-structured neural networks (KS-NN) for the lateral speed estimation of vehicles. The internal structure of the networks is designed to incorporate the kinematic principles, enhancing the physical explainability and generalization capacity. Both the internal structure and training method are devised for better generalization performance. Various linear and nonlinear variants of our estimator are assessed for accuracy and robustness. The approach is validated using an openly accessible dataset with two race cars. The performance of the novel networks is evaluated against Luenberger, neural network, factor graph and Kalman filter estimators from the literature. In comparison with a Luenberger kinematic observer, our networks improve noise rejection, and overcome the well-known observability problem for low yaw rates. Compared to existing neural network estimators, our networks exhibit better generalization capacity, are more sample-efficient, require fewer learnable parameters, and their structure is physically explainable."
+  },
+  {
+    "objectID": "publications/2022-Piazza-MPTREE-IED/index.html",
+    "href": "publications/2022-Piazza-MPTREE-IED/index.html",
+    "title": "MPTREE: Motion primitive tree exploration for trajectory planning with dynamic obstacle avoidance",
+    "section": "",
+    "text": "The MPTREE is a motion primitive tree exploration algorithm for trajectory planning with dynamic obstacle avoidance. The algorithm is based on the exploration of the vehicle state space by means of a tree. The algorithm is able to generate trajectories in real-time and to avoid dynamic obstacles.\nThe motion planning and decision-making algorithms have to satisfy the following high level goals:\n\nGenerate trajectories (path plus speed profiles and actuation commands) to navigate autonomously in complex urban scenario.\nConsider communicated by other vehicles or use advance motion prediction models of other road users.\nChange the type of maneuver generated according to different vehicle categories (e.g. cars vs trucks) and according to different safety and comfort criteria."
+  },
+  {
+    "objectID": "publications/2020-Pagot-Real-IROS/index.html#abstract",
+    "href": "publications/2020-Pagot-Real-IROS/index.html#abstract",
+    "title": "Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model",
+    "section": "Abstract",
+    "text": "Abstract\nIn this paper, we present a real-time non-linear model-predictive control (NMPC) framework to perform minimum-time motion planning for autonomous racing cars. We introduce an innovative kineto-dynamical vehicle model, able to accurately predict non-linear longitudinal and lateral vehicle dynamics. The main parameters of this vehicle model can be tuned with only experimental or simulated maneuvers, aimed to identify the handling diagram and the maximum performance G-G envelope. The kineto-dynamical model is adopted to generate on-line minimum time trajectories with an indirect optimal control method. The motion planning framework is applied to control an autonomous 1:8 RC vehicle near the limits of handling along a test circuit. Finally, the effectiveness of the proposed algorithms is illustrated by comparing the experimental results with the solution of an off-line minimum-time optimal control problem."
+  },
+  {
+    "objectID": "people/stocco-davide/index.html#education",
+    "href": "people/stocco-davide/index.html#education",
+    "title": "Davide Stocco",
     "section": "Education",
-    "text": "Education\nPh.D. in Autonomous Systems | Polytechnic University of Bari | 2026 MSc in Autonomous Systems | University of Trento | 2022 BSc in Industrial Engineering | University of Trento | 2020"
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2024 M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Padua | 2017"
   },
   {
-    "objectID": "people/taddei-sebastiano/index.html#s-group-publications",
-    "href": "people/taddei-sebastiano/index.html#s-group-publications",
-    "title": "Sebastiano Taddei",
-    "section": "Sebastiano’s Group Publications",
-    "text": "Sebastiano’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "people/piccinini-mattia/index.html#education",
-    "href": "people/piccinini-mattia/index.html#education",
-    "title": "Mattia Piccinini",
-    "section": "Education",
-    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
-  },
-  {
-    "objectID": "people/piccinini-mattia/index.html#group-publications",
-    "href": "people/piccinini-mattia/index.html#group-publications",
-    "title": "Mattia Piccinini",
-    "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "people/pagot-edoardo/index.html#education",
-    "href": "people/pagot-edoardo/index.html#education",
-    "title": "Edoardo Pagot",
-    "section": "Education",
-    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2021 M.S. Mechatronics Engineering | University of Trento | 2017 B.S. Mechanical Engineering | University of Padua | 2014"
-  },
-  {
-    "objectID": "people/pagot-edoardo/index.html#group-publications",
-    "href": "people/pagot-edoardo/index.html#group-publications",
-    "title": "Edoardo Pagot",
+    "objectID": "people/stocco-davide/index.html#group-publications",
+    "href": "people/stocco-davide/index.html#group-publications",
+    "title": "Davide Stocco",
     "section": "Group Publications",
     "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/piazza-mattia/index.html#education",
+    "href": "people/piazza-mattia/index.html#education",
+    "title": "Mattia Piazza",
+    "section": "Education",
+    "text": "Education\n M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Udine | 2017"
+  },
+  {
+    "objectID": "people/piazza-mattia/index.html#group-publications",
+    "href": "people/piazza-mattia/index.html#group-publications",
+    "title": "Mattia Piazza",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                MPTREE: Motion primitive tree exploration for trajectory planning with dynamic obstacle avoidance\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Motion Primitive Tree Planner MPTree\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini, \n                    Francesco Biral, \n                    Mauro Da Lio \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/larcher-matteo/index.html#education",
+    "href": "people/larcher-matteo/index.html#education",
+    "title": "Matteo Larcher",
+    "section": "Education",
+    "text": "Education\nPhD in Industrial Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
+  },
+  {
+    "objectID": "people/larcher-matteo/index.html#group-publications",
+    "href": "people/larcher-matteo/index.html#group-publications",
+    "title": "Matteo Larcher",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/filippo-faccini/index.html#education",
+    "href": "people/filippo-faccini/index.html#education",
+    "title": "Filippo Faccini",
+    "section": "Education",
+    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2025 BSc in Industrial Engineering | University of Trento | 2022"
+  },
+  {
+    "objectID": "people/filippo-faccini/index.html#s-group-publications",
+    "href": "people/filippo-faccini/index.html#s-group-publications",
+    "title": "Filippo Faccini",
+    "section": "Filippo’s Group Publications",
+    "text": "Filippo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/biral-francesco/index.html#education",
+    "href": "people/biral-francesco/index.html#education",
+    "title": "Francesco Biral",
+    "section": "Education",
+    "text": "Education\nPhD in Mechanical Engineering | University of Padua | 2000 MSc in Mechanical Engineering | University of Padua | 1997"
+  },
+  {
+    "objectID": "people/biral-francesco/index.html#group-publications",
+    "href": "people/biral-francesco/index.html#group-publications",
+    "title": "Francesco Biral",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop, pp. 2390-2396 (2020)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Alice Plebe, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Robust and Sample-Efficient Estimation of Vehicle Lateral Velocity Using Neural Networks With Explainable Structure Informed by Kinematic Principles\n            \n            \n            \n                \n                    Mauro Da Lio, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 12, pp. 13670-13684 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 124163-124180 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Motion Primitive Tree Planner MPTree\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini, \n                    Francesco Biral, \n                    Mauro Da Lio \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Artificial Race Driver\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DRIVEWISE Research Group",
+    "section": "",
+    "text": "Welcome to the DRIVEWISE Research Group website!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the DRIVEWISE Research Group!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems."
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "francesco.biral@unitn.it\n\n\n   +39 0461 282513\n\n\n   Department of Industrial Engineering, Via Sommarive 9, 38123, Trento (TN), Italy\nDepartment of Industrial Engineering | University of Trento\n\n\n    \n  \n\n\n123moviesmap for website"
+  },
+  {
+    "objectID": "people/bertolazzi-enrico/index.html#education",
+    "href": "people/bertolazzi-enrico/index.html#education",
+    "title": "Enrico Bertolazzi",
+    "section": "Education",
+    "text": "Education\nPhD in Mathematics | University of Trento | 1995 MSc in Mathematics | University of Trento | 1990"
+  },
+  {
+    "objectID": "people/bertolazzi-enrico/index.html#group-publications",
+    "href": "people/bertolazzi-enrico/index.html#group-publications",
+    "title": "Enrico Bertolazzi",
+    "section": "Group Publications",
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Alice Plebe, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 124163-124180 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "people/corradini-giacomo/index.html#education",
+    "href": "people/corradini-giacomo/index.html#education",
+    "title": "Giacomo Corradini",
+    "section": "Education",
+    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2023 BSc in Industrial Engineering | University of Trento | 2020"
+  },
+  {
+    "objectID": "people/corradini-giacomo/index.html#s-group-publications",
+    "href": "people/corradini-giacomo/index.html#s-group-publications",
+    "title": "Giacomo Corradini",
+    "section": "Giacomo’s Group Publications",
+    "text": "Giacomo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
   },
   {
     "objectID": "people/index.html",
@@ -84,129 +217,80 @@
     "text": "Former Members\n\n\n\n  \n   \n\n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Matteo Larcher \n            \n               \n            \n              PhD Research Fellow\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Edoardo Pagot \n            \n               \n            \n              PhD Research Fellow\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n     \n    \n    \n      \n      \n      \n      \n        \n          \n          \n          \n            \n          \n          \n          \n            \n            \n              Mattia Piccinini \n            \n               \n            \n              Humboldt Post-doctoral Researcher, Technical University of Munich\n            \n                \n            \n              \n              \n                  \n\n            \n            \n            \n          \n      \n      \n    \n  \n    \n  \n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/corradini-giacomo/index.html#education",
-    "href": "people/corradini-giacomo/index.html#education",
-    "title": "Giacomo Corradini",
+    "objectID": "people/pagot-edoardo/index.html#education",
+    "href": "people/pagot-edoardo/index.html#education",
+    "title": "Edoardo Pagot",
     "section": "Education",
-    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2023 BSc in Industrial Engineering | University of Trento | 2020"
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2021 M.S. Mechatronics Engineering | University of Trento | 2017 B.S. Mechanical Engineering | University of Padua | 2014"
   },
   {
-    "objectID": "people/corradini-giacomo/index.html#s-group-publications",
-    "href": "people/corradini-giacomo/index.html#s-group-publications",
-    "title": "Giacomo Corradini",
-    "section": "Giacomo’s Group Publications",
-    "text": "Giacomo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "people/bertolazzi-enrico/index.html#education",
-    "href": "people/bertolazzi-enrico/index.html#education",
-    "title": "Enrico Bertolazzi",
-    "section": "Education",
-    "text": "Education\nPhD in Mathematics | University of Trento | 1995 MSc in Mathematics | University of Trento | 1990"
-  },
-  {
-    "objectID": "people/bertolazzi-enrico/index.html#group-publications",
-    "href": "people/bertolazzi-enrico/index.html#group-publications",
-    "title": "Enrico Bertolazzi",
+    "objectID": "people/pagot-edoardo/index.html#group-publications",
+    "href": "people/pagot-edoardo/index.html#group-publications",
+    "title": "Edoardo Pagot",
     "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop, pp. 2390-2396 (2020)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Alice Plebe, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 124163-124180 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contacts",
-    "section": "",
-    "text": "francesco.biral@unitn.it\n\n\n   +39 0461 282513\n\n\n   Department of Industrial Engineering, Via Sommarive 9, 38123, Trento (TN), Italy\nDepartment of Industrial Engineering | University of Trento\n\n\n    \n  \n\n\n123moviesmap for website\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to the DRIVEWISE Research Group!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DRIVEWISE Research Group",
-    "section": "",
-    "text": "Welcome to the DRIVEWISE Research Group website!\nWelcome to the DRIVEWISE research group at the Department of Industrial Engineering of the University of Trento, led by Professors Francesco Biral and Enrico Bertolazzi.\nOur collaborative team is dedicated to advanced applied mechanics, autonomous systems, artificial intelligence, dynamics and control, and optimization. Through this rich blend of experience and knowledge, we can tackle complex problems focusing on intelligent mobility, autonomous driving, and Advanced Driving Assistance Systems (ADAS). Embedded in our DNA is a commitment to exploring new frontiers, as demonstrated by our active participation in impactful European projects.\nJoin us on a journey where curiosity and innovation converge, shaping the future of intelligent mobility. Discover a world where we redefine what’s possible at the exciting crossroads of applied mechanics and autonomous systems.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/biral-francesco/index.html#education",
-    "href": "people/biral-francesco/index.html#education",
-    "title": "Francesco Biral",
+    "objectID": "people/piccinini-mattia/index.html#education",
+    "href": "people/piccinini-mattia/index.html#education",
+    "title": "Mattia Piccinini",
     "section": "Education",
-    "text": "Education\nPhD in Mechanical Engineering | University of Padua | 2000 MSc in Mechanical Engineering | University of Padua | 1997"
+    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
   },
   {
-    "objectID": "people/biral-francesco/index.html#group-publications",
-    "href": "people/biral-francesco/index.html#group-publications",
-    "title": "Francesco Biral",
+    "objectID": "people/piccinini-mattia/index.html#group-publications",
+    "href": "people/piccinini-mattia/index.html#group-publications",
+    "title": "Mattia Piccinini",
     "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
+    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop, pp. 2390-2396 (2020)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Alice Plebe, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IROS Workshop (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                MPTREE: Motion primitive tree exploration for trajectory planning with dynamic obstacle avoidance\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2022)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Robust and Sample-Efficient Estimation of Vehicle Lateral Velocity Using Neural Networks With Explainable Structure Informed by Kinematic Principles\n            \n            \n            \n                \n                    Mauro Da Lio, \n                    Mattia Piccinini, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 12, pp. 13670-13684 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks\n            \n            \n            \n                \n                    Edoardo Pagot, \n                    Mattia Piccinini, \n                    Enrico Bertolazzi, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 124163-124180 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Motion Primitive Tree Planner MPTree\n            \n            \n            \n                \n                    Mattia Piazza, \n                    Mattia Piccinini, \n                    Francesco Biral, \n                    Mauro Da Lio \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Artificial Race Driver\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
   },
   {
-    "objectID": "people/filippo-faccini/index.html#education",
-    "href": "people/filippo-faccini/index.html#education",
-    "title": "Filippo Faccini",
+    "objectID": "people/taddei-sebastiano/index.html#education",
+    "href": "people/taddei-sebastiano/index.html#education",
+    "title": "Sebastiano Taddei",
     "section": "Education",
-    "text": "Education\n MSc in Mechatronics Engineering | University of Trento | 2025 BSc in Industrial Engineering | University of Trento | 2022"
+    "text": "Education\nPh.D. in Autonomous Systems | Polytechnic University of Bari | 2026 MSc in Autonomous Systems | University of Trento | 2022 BSc in Industrial Engineering | University of Trento | 2020"
   },
   {
-    "objectID": "people/filippo-faccini/index.html#s-group-publications",
-    "href": "people/filippo-faccini/index.html#s-group-publications",
-    "title": "Filippo Faccini",
-    "section": "Filippo’s Group Publications",
-    "text": "Filippo’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
+    "objectID": "people/taddei-sebastiano/index.html#s-group-publications",
+    "href": "people/taddei-sebastiano/index.html#s-group-publications",
+    "title": "Sebastiano Taddei",
+    "section": "Sebastiano’s Group Publications",
+    "text": "Sebastiano’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                Artificial Race Driver\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n    \n        \n            \n            \n                \n                    \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    Industrial Engineering Day, University of Trento, Italy (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    PDF \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
   },
   {
-    "objectID": "people/larcher-matteo/index.html#education",
-    "href": "people/larcher-matteo/index.html#education",
-    "title": "Matteo Larcher",
-    "section": "Education",
-    "text": "Education\nPhD in Industrial Engineering | University of Trento | 2023 M.S. Mechatronics Engineering | University of Trento | 2019 B.S. Mechanical Engineering | University of Padua | 2017"
+    "objectID": "publications/2022-Pagot-Real-IROS/index.html#abstract",
+    "href": "publications/2022-Pagot-Real-IROS/index.html#abstract",
+    "title": "Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach",
+    "section": "Abstract ",
+    "text": "Abstract \nThis paper presents a framework to generate in real-time autonomous parking maneuvers for generic and unstructured parking scenarios. Our method is based on the solution of minimum-time optimal control problems by means of an indirect approach. In a single optimization, the framework computes parking maneuvers composed of two or more segments of forward and reverse driving. The trajectory planning tasks are solved in real-time, and a fine grid is used to discretize the domain of the optimal control problems, resulting in accurate and collision-free solutions. Moreover, we introduce a novel method to deal with static obstacles in the optimal control problems, using penalty functions defined as regularized three-dimensional clip functions. The results show the effectiveness of our approach in various scenarios with narrow parking spots."
   },
   {
-    "objectID": "people/larcher-matteo/index.html#group-publications",
-    "href": "people/larcher-matteo/index.html#group-publications",
-    "title": "Matteo Larcher",
-    "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "people/piazza-mattia/index.html#education",
-    "href": "people/piazza-mattia/index.html#education",
-    "title": "Mattia Piazza",
-    "section": "Education",
-    "text": "Education\n M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Udine | 2017"
-  },
-  {
-    "objectID": "people/piazza-mattia/index.html#group-publications",
-    "href": "people/piazza-mattia/index.html#group-publications",
-    "title": "Mattia Piazza",
-    "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n            \n        \n        \n            \n                A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control\n            \n            \n            \n                \n                    Mattia Piccinini, \n                    Sebastiano Taddei, \n                    Matteo Larcher, \n                    Mattia Piazza, \n                    Francesco Biral \n            \n            \n            \n                \n                    IEEE Access, Volume 11, pp. 46344-46372 (2023)\n                \n            \n            \n            \n                \n                \n                \n                \n                \n                \n                \n                    DOI \n                \n                \n                \n                \n            \n        \n    \n    \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "people/stocco-davide/index.html#education",
-    "href": "people/stocco-davide/index.html#education",
-    "title": "Davide Stocco",
-    "section": "Education",
-    "text": "Education\nPhD in Mechatronics and System Engineering | University of Trento | 2024 M.S. Mechatronics Engineering | University of Trento | 2020 B.S. Mechanical Engineering | University of Padua | 2017"
-  },
-  {
-    "objectID": "people/stocco-davide/index.html#group-publications",
-    "href": "people/stocco-davide/index.html#group-publications",
-    "title": "Davide Stocco",
-    "section": "Group Publications",
-    "text": "Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
-    "href": "publications/2023-Physics-Piccini-IEEEAccess/index.html#abstract",
-    "title": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control",
+    "objectID": "publications/2022-Piccinini-Predictive-VSD/index.html#abstract",
+    "href": "publications/2022-Piccinini-Predictive-VSD/index.html#abstract",
+    "title": "A Predictive Neural Hierarchical Framework for On-line Time-Optimal Motion Planning and Control of Black-Box Vehicle Models",
     "section": "Abstract",
-    "text": "Abstract\nThis paper presents a hierarchical framework with novel analytical and neural physics-driven models, to enable the online planning and tracking of minimum-time maneuvers, for a vehicle with partially-unknown parameters. We introduce a lateral speed prediction model for high-level motion planning with economic nonlinear model predictive control (E-NMPC). A low-level steering controller is developed with a novel feedforward-feedback physics-driven artificial neural network (NN). A longitudinal dynamic model is identified to tune a low-level speed-tracking controller. The high- and low-level control models are identified with an automatic three-step scheme, combining open-loop and closed-loop maneuvers to model the maximum acceleration G-G-v performance constraint for E-NMPC, and to capture the effect of the longitudinal acceleration on the lateral dynamics. The proposed framework is used in a simulation environment, for the online closed-loop control of a highly detailed sedan vehicle simulator, whose parameters are partially-unknown. Two different circuits are adopted to validate the approach, and a robustness analysis is performed by varying the vehicle mass and the load distribution. A minimum-time optimal control problem is solved offline and used for a comparison with the closed-loop results.”"
+    "text": "Abstract\nThis paper addresses the on-line minimum-time motion planning and control of a black-box racing vehicle model. We present a hierarchical control framework, composed of a high-level non-linear model predictive controller (NMPC) based on an advanced kineto-dynamical vehicle model, a low-level neural network to compute the inverse steering dynamics and a longitudinal controller for the low-level tracking of speed profiles. An off-line identification procedure, consisting of simulated manoeuvres, is defined to learn the high-level and low-level models. A closed-loop simulation is setup to control the black-box vehicle near the limits of handling along a racetrack. Simulation results are compared with the off-line solution of a minimum-time-optimal control problem."
+  },
+  {
+    "objectID": "publications/2023-Pagot-FastPlanning-IEEEAccess/index.html#abstract",
+    "href": "publications/2023-Pagot-FastPlanning-IEEEAccess/index.html#abstract",
+    "title": "Fast Planning and Tracking of Complex Autonomous Parking Maneuvers With Optimal Control and Pseudo-Neural Networks",
+    "section": "Abstract ",
+    "text": "Abstract \nThis paper presents a framework to plan and execute autonomous parking maneuvers in complex parking scenarios. We formulate a minimum-time optimal control problem for trajectory planning, using an indirect optimal control approach. A novel smooth penalty function is devised for collision avoidance with optimal control, and an effective technique is adopted to compute an initial solution guess. The trajectory planning tasks are solved with low computational times, and a dense mesh is used to discretize the domain of the optimal control problems, resulting in accurate collision-free solutions. The planned parking maneuvers are tracked with an original pseudo-neural feedforward-feedback steering controller, which outperforms other techniques from the literature, and a feedback longitudinal controller, to drive a realistic 14-degree-of-freedom vehicle simulator. We validate the planning and tracking algorithms in challenging narrow parking scenarios, including reverse, parallel and angle parking, and unstructured environments. The framework robustness is assessed by changing the vehicle mass, the road adherence conditions, and by introducing measurement noise with realistic sensor models. A video of the trajectory planning and tracking results is available as supplementary material."
+  },
+  {
+    "objectID": "publications/2023-Piazza-Motion-IED/index.html",
+    "href": "publications/2023-Piazza-Motion-IED/index.html",
+    "title": "Motion Primitive Tree Planner MPTree",
+    "section": "",
+    "text": "The MPTREE is a motion primitive tree exploration algorithm for trajectory planning with dynamic obstacle avoidance with cooperative interface via V2X with other agents. The algorithm is based on tree exploration via optimal maneuvers."
+  },
+  {
+    "objectID": "publications/2023-Piccinini-Physics-Automatica/index.html",
+    "href": "publications/2023-Piccinini-Physics-Automatica/index.html",
+    "title": "A Physics-Driven Artificial Agent for Online Time-Optimal Vehicle Motion Planning and Control",
+    "section": "",
+    "text": "The Artificial Race Driver (ARD) is a framework to plan extreme manouvre for racing autonomous vehicles in an obstacle free scenario."
   }
 ]

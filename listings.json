@@ -2,23 +2,64 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
+      "/publications/2023-DaLio-Robust-IEEETransactions/index.html",
+      "/publications/2022-Piccinini-Predictive-VSD/index.html",
+      "/publications/2022-Pagot-Real-IROS/index.html",
+      "/publications/2020-Pagot-Real-IROS/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html",
+      "/publications/2023-Piccinini-ARD-IED/index.html",
+      "/publications/2023-Piazza-Motion-IED/index.html",
+      "/publications/2022-Piazza-MPTREE-IED/index.html"
     ]
   },
   {
-    "listing": "/people/taddei-sebastiano/index.html",
+    "listing": "/people/stocco-davide/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/piazza-mattia/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2022-Piazza-MPTREE-IED/index.html",
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Piazza-Motion-IED/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html"
     ]
   },
   {
-    "listing": "/people/piccinini-mattia/index.html",
+    "listing": "/people/larcher-matteo/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html"
     ]
   },
   {
-    "listing": "/people/pagot-edoardo/index.html",
+    "listing": "/people/filippo-faccini/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/biral-francesco/index.html",
+    "items": [
+      "/publications/2020-Pagot-Real-IROS/index.html",
+      "/publications/2022-Pagot-Real-IROS/index.html",
+      "/publications/2023-DaLio-Robust-IEEETransactions/index.html",
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Piazza-Motion-IED/index.html",
+      "/publications/2023-Piccinini-ARD-IED/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html"
+    ]
+  },
+  {
+    "listing": "/people/bertolazzi-enrico/index.html",
+    "items": [
+      "/publications/2022-Pagot-Real-IROS/index.html",
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html"
+    ]
+  },
+  {
+    "listing": "/people/corradini-giacomo/index.html",
     "items": []
   },
   {
@@ -37,37 +78,33 @@
     ]
   },
   {
-    "listing": "/people/corradini-giacomo/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/bertolazzi-enrico/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/biral-francesco/index.html",
+    "listing": "/people/pagot-edoardo/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2020-Pagot-Real-IROS/index.html",
+      "/publications/2022-Pagot-Real-IROS/index.html",
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html"
     ]
   },
   {
-    "listing": "/people/filippo-faccini/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/larcher-matteo/index.html",
+    "listing": "/people/piccinini-mattia/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2020-Pagot-Real-IROS/index.html",
+      "/publications/2022-Pagot-Real-IROS/index.html",
+      "/publications/2022-Piazza-MPTREE-IED/index.html",
+      "/publications/2023-DaLio-Robust-IEEETransactions/index.html",
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Piazza-Motion-IED/index.html",
+      "/publications/2023-Piccinini-ARD-IED/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html"
     ]
   },
   {
-    "listing": "/people/piazza-mattia/index.html",
+    "listing": "/people/taddei-sebastiano/index.html",
     "items": [
-      "/publications/2023-Physics-Piccini-IEEEAccess/index.html"
+      "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
+      "/publications/2023-Piccinini-ARD-IED/index.html",
+      "/publications/2023-Piccinini-Physics-Automatica/index.html"
     ]
-  },
-  {
-    "listing": "/people/stocco-davide/index.html",
-    "items": []
   }
 ]
