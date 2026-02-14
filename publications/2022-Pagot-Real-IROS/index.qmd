@@ -11,7 +11,7 @@ url_preprint:
 journ: "IROS Workshop"
 # issue: 
 # page: 
-doi: 
+# doi: 
 year: 2022
 video: U2mRTzmFj9w
 # image: ""
