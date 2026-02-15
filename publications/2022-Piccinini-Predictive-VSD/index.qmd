@@ -15,6 +15,7 @@ doi: 10.1080/00423114.2022.2035776
 year: 2022
 video: h5eW01xXWaw #  false or youtube video id
 # pdf: 
+bibtex: bibtex.txt
 ---
 
 ## Video
@@ -25,3 +26,11 @@ video: h5eW01xXWaw #  false or youtube video id
 ## Abstract
 
 This paper addresses the on-line minimum-time motion planning and control of a black-box racing vehicle model. We present a hierarchical control framework, composed of a high-level non-linear model predictive controller (NMPC) based on an advanced kineto-dynamical vehicle model, a low-level neural network to compute the inverse steering dynamics and a longitudinal controller for the low-level tracking of speed profiles. An off-line identification procedure, consisting of simulated manoeuvres, is defined to learn the high-level and low-level models. A closed-loop simulation is setup to control the black-box vehicle near the limits of handling along a racetrack. Simulation results are compared with the off-line solution of a minimum-time-optimal control problem.
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```

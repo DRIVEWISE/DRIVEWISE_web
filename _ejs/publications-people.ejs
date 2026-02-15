@@ -91,6 +91,18 @@
                     <span style="border: 1px solid currentColor; padding: 2px 8px; border-radius: 4px;">PDF <i class="bi bi-download"></i></span>
                 </a>
                 <% } %>
+                
+                <% if (item.bibtex) { %>
+                <% if (item.url_source || item.url_preprint || item.doi || item.pdf) { %> | <% } %>
+                <% 
+                // Get directory path from item.path and construct full bibtex path
+                const dirPath = item.path.substring(0, item.path.lastIndexOf('/') + 1);
+                const bibtexPath = dirPath + item.bibtex;
+                %>
+                <a href="<%- bibtexPath %>" download style="text-decoration: none;">
+                    <span style="border: 1px solid currentColor; padding: 2px 8px; border-radius: 4px;">CITE <i class="bi bi-download"></i></span>
+                </a>
+                <% } %>
             </div>
         </div>
     </div>

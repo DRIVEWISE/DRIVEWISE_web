@@ -1,0 +1,27 @@
+---
+title: "MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance"
+author: ["Mattia Piazza", "Mattia Piccinini", "Sebastiano Taddei", "Francesco Biral"]
+publication: "IFAC-PapersOnLine - vol. 58, no. 10, pp. 146-153, 2024"
+categories: 
+  - "Publications"
+  - "Conference Articles"
+type: conference
+url_source: 
+url_preprint: 
+journ: "IFAC-PapersOnLine, Elsevier"
+issue: "vol. 58, no. 10"
+page: "pp. 146-153"
+doi: "10.1016/j.ifacol.2024.07.332"
+year: 2024
+# video: ""
+image: ../../assets/images/Neurobotic-drive-lab-logo-square.png
+bibtex: bibtex.txt
+---
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```

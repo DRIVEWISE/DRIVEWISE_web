@@ -15,9 +15,18 @@ doi: 10.1109/TITS.2023.3303776
 year: 2023
 # video: 
 image: cover.jpg 
+bibtex: bibtex.txt
 ---
 
 
 ## Abstract <!-- omit in toc -->
 
 This paper presents kinematics-structured neural networks (KS-NN) for the lateral speed estimation of vehicles. The internal structure of the networks is designed to incorporate the kinematic principles, enhancing the physical explainability and generalization capacity. Both the internal structure and training method are devised for better generalization performance. Various linear and nonlinear variants of our estimator are assessed for accuracy and robustness. The approach is validated using an openly accessible dataset with two race cars. The performance of the novel networks is evaluated against Luenberger, neural network, factor graph and Kalman filter estimators from the literature. In comparison with a Luenberger kinematic observer, our networks improve noise rejection, and overcome the well-known observability problem for low yaw rates. Compared to existing neural network estimators, our networks exhibit better generalization capacity, are more sample-efficient, require fewer learnable parameters, and their structure is physically explainable.
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```

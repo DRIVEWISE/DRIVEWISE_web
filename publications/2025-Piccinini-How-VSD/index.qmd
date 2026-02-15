@@ -1,0 +1,39 @@
+---
+title: "How optimal is the minimum-time manoeuvre of an artificial race driver?"
+author: [ "Mattia Piccinini", "Sebastiano Taddei", "Edoardo Pagot", "Enrico Bertolazzi", "Francesco Biral"]
+publication: "Vehicle System Dynamics - vol. 63, no. 12, pp. 2213-2240, 2025"
+categories: 
+  - "Publications"
+  - "Journal Articles"
+type: journal
+url_source: 
+url_preprint: 
+journ: "Vehicle System Dynamics, Taylor & Francis"
+issue: "vol. 63, no. 12"
+page: "pp. 2213-2240"
+doi: 10.1080/00423114.2024.2407176
+year: 2025
+# video: ""
+image: "../../assets/images/Neurobotic-drive-lab-logo-square.png"
+bibtex: bibtex.txt
+---
+
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```
+
+@article{piccinini2025optimal,
+  title={How optimal is the minimum-time manoeuvre of an artificial race driver?},
+  author={Piccinini, Mattia and Taddei, Sebastiano and Pagot, Edoardo and Bertolazzi, Enrico and Biral, Francesco},
+  journal={Vehicle System Dynamics},
+  volume={63},
+  number={12},
+  pages={2213--2240},
+  year={2025},
+  publisher={Taylor \& Francis}
+}

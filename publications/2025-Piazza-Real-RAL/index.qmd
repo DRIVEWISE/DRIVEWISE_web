@@ -1,0 +1,27 @@
+---
+title: "Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints"
+author: [ "Mattia Piazza", "Mattia Piccinini", "Sebastiano Taddei", "Francesco Biral", "Enrico Bertolazzi"]
+publication: "IEEE Robotics and Automation Letters - vol. 11, no. 2, pp. 1674-1681, 2025"
+categories: 
+  - "Publications"
+  - "Journal Articles"
+type: journal
+url_source: 
+url_preprint: 
+journ: "IEEE Robotics and Automation Letters, IEEE"
+issue: "vol. 11, no. 2"
+page: "pp. 1674-1681"
+doi: "10.1109/LRA.2025.3643297"
+year: 2025
+# video: ""
+image: "../../assets/images/Neurobotic-drive-lab-logo-square.png"
+bibtex: bibtex.txt
+---
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```

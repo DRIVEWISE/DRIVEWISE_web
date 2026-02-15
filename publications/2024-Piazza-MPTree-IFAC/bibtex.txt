@@ -1,0 +1,10 @@
+@article{piazza2024mptree,
+  title={MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance},
+  author={Piazza, Mattia and Piccinini, Mattia and Taddei, Sebastiano and Biral, Francesco},
+  journal={IFAC-PapersOnLine},
+  volume={58},
+  number={10},
+  pages={146--153},
+  year={2024},
+  publisher={Elsevier}
+}

@@ -1,0 +1,4 @@
+@article{pagotreal,
+  title={Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach},
+  author={Pagot, Edoardo and Piccinini, Mattia and Plebe, Alice and Bertolazzi, Enrico and Biral, Francesco}
+}

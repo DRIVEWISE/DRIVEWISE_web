@@ -1,0 +1,8 @@
+@inproceedings{pagot2020real,
+  title={Real-time optimal control of an autonomous RC car with minimum-time maneuvers and a novel kineto-dynamical model},
+  author={Pagot, Edoardo and Piccinini, Mattia and Biral, Francesco},
+  booktitle={2020 IEEE/RSJ international conference on intelligent robots and systems (IROS)},
+  pages={2390--2396},
+  year={2020},
+  organization={IEEE}
+}

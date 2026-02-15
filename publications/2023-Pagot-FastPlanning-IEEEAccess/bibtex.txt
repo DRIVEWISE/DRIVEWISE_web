@@ -1,0 +1,9 @@
+@article{pagot2023fast,
+  title={Fast planning and tracking of complex autonomous parking maneuvers with optimal control and pseudo-neural networks},
+  author={Pagot, Edoardo and Piccinini, Mattia and Bertolazzi, Enrico and Biral, Francesco},
+  journal={IEEE Access},
+  volume={11},
+  pages={124163--124180},
+  year={2023},
+  publisher={IEEE}
+}

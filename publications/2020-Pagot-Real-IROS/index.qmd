@@ -15,6 +15,7 @@ doi: 10.1109/IROS45743.2020.9340640
 year: 2020
 video: HADLEr5eTj0
 # image: ""
+bibtex: bibtex.txt
 ---
 
 ## Video
@@ -25,3 +26,11 @@ video: HADLEr5eTj0
 ## Abstract
 
 In this paper, we present a real-time non-linear model-predictive control (NMPC) framework to perform minimum-time motion planning for autonomous racing cars. We introduce an innovative kineto-dynamical vehicle model, able to accurately predict non-linear longitudinal and lateral vehicle dynamics. The main parameters of this vehicle model can be tuned with only experimental or simulated maneuvers, aimed to identify the handling diagram and the maximum performance G-G envelope. The kineto-dynamical model is adopted to generate on-line minimum time trajectories with an indirect optimal control method. The motion planning framework is applied to control an autonomous 1:8 RC vehicle near the limits of handling along a test circuit. Finally, the effectiveness of the proposed algorithms is illustrated by comparing the experimental results with the solution of an off-line minimum-time optimal control problem.
+
+## Cite this work
+
+```{=html}
+<div style="position: relative; width: 100%; padding-bottom: 40%; ">
+  <embed src="./{{< meta bibtex >}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+</div>
+```
