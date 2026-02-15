@@ -6,11 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Edoardo Pagot">
+<meta name="author" content="Mattia Piazza">
 <meta name="author" content="Mattia Piccinini">
+<meta name="author" content="Sebastiano Taddei">
 <meta name="author" content="Francesco Biral">
+<meta name="author" content="Enrico Bertolazzi">
 
-<title>Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model – DRIVEWISE</title>
+<title>Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints – DRIVEWISE</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -75,12 +77,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model – DRIVEWISE">
-<meta property="og:description" content="Research Group focused on Phisically Informed Neural Networks for Mechanical and Mechatronic Systems">
+<meta property="og:title" content="Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints – DRIVEWISE">
+<meta property="og:image" content="https://DRIVEWISE.github.io/assets/images/Neurobotic-drive-lab-logo-square.png">
 <meta property="og:site_name" content="DRIVEWISE">
-<meta name="twitter:title" content="Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model – DRIVEWISE">
-<meta name="twitter:description" content="Research Group focused on Phisically Informed Neural Networks for Mechanical and Mechatronic Systems">
-<meta name="twitter:card" content="summary">
+<meta property="og:image:height" content="1024">
+<meta property="og:image:width" content="1024">
+<meta name="twitter:title" content="Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints – DRIVEWISE">
+<meta name="twitter:image" content="https://DRIVEWISE.github.io/assets/images/Neurobotic-drive-lab-logo-square.png">
+<meta name="twitter:image-height" content="1024">
+<meta name="twitter:image-width" content="1024">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -136,21 +142,19 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#video" id="toc-video" class="nav-link active" data-scroll-target="#video">Video</a></li>
-  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#cite-this-work" id="toc-cite-this-work" class="nav-link" data-scroll-target="#cite-this-work">Cite this work</a></li>
+  <li><a href="#cite-this-work" id="toc-cite-this-work" class="nav-link active" data-scroll-target="#cite-this-work">Cite this work</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/edit/main/publications/2020-Pagot-Real-IROS/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/edit/main/publications/2025-Piazza-Real-RAL/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Real-time Optimal Control of an Autonomous RC Car with Minimum-Time Maneuvers and a Novel Kineto-Dynamical Model</h1>
+<h1 class="title">Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Publications</div>
-    <div class="quarto-category">Workshop Articles</div>
+    <div class="quarto-category">Journal Articles</div>
   </div>
   </div>
 
@@ -161,9 +165,11 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
-             <p>Edoardo Pagot </p>
+             <p>Mattia Piazza </p>
              <p>Mattia Piccinini </p>
+             <p>Sebastiano Taddei </p>
              <p>Francesco Biral </p>
+             <p>Enrico Bertolazzi </p>
           </div>
   </div>
     
@@ -173,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-title-meta-heading">Doi</div>
     <div class="quarto-title-meta-contents">
       <p class="doi">
-        <a href="https://doi.org/10.1109/IROS45743.2020.9340640">10.1109/IROS45743.2020.9340640</a>
+        <a href="https://doi.org/10.1109/LRA.2025.3643297">10.1109/LRA.2025.3643297</a>
       </p>
     </div>
   </div>
@@ -184,14 +190,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/U2mRTzmFj9w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In this paper, we present a real-time non-linear model-predictive control (NMPC) framework to perform minimum-time motion planning for autonomous racing cars. We introduce an innovative kineto-dynamical vehicle model, able to accurately predict non-linear longitudinal and lateral vehicle dynamics. The main parameters of this vehicle model can be tuned with only experimental or simulated maneuvers, aimed to identify the handling diagram and the maximum performance G-G envelope. The kineto-dynamical model is adopted to generate on-line minimum time trajectories with an indirect optimal control method. The motion planning framework is applied to control an autonomous 1:8 RC vehicle near the limits of handling along a test circuit. Finally, the effectiveness of the proposed algorithms is illustrated by comparing the experimental results with the solution of an off-line minimum-time optimal control problem.</p>
-</section>
 <section id="cite-this-work" class="level2">
 <h2 class="anchored" data-anchor-id="cite-this-work">Cite this work</h2>
 <div style="position: relative; width: 100%; padding-bottom: 40%; ">
@@ -610,7 +608,7 @@ ul.task-list li input[type="checkbox"] {
     </div>   
     <div class="nav-footer-center">
 <p>© <span id="current-year"></span> created by Mattia Piazza.</p>
-<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/edit/main/publications/2020-Pagot-Real-IROS/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/edit/main/publications/2025-Piazza-Real-RAL/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DRIVEWISE/DRIVEWISE.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY NC SA 4.0</a>.</p>
 </div>

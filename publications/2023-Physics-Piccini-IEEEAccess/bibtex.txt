@@ -1,0 +1,9 @@
+@article{piccinini2023physics,
+  title={A physics-driven artificial agent for online time-optimal vehicle motion planning and control},
+  author={Piccinini, Mattia and Taddei, Sebastiano and Larcher, Matteo and Piazza, Mattia and Biral, Francesco},
+  journal={IEEE Access},
+  volume={11},
+  pages={46344--46372},
+  year={2023},
+  publisher={IEEE}
+}

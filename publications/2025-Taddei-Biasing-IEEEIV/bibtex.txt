@@ -1,0 +1,8 @@
+@inproceedings{taddei2025biasing,
+  title={Biasing the Driving Style of an Artificial Race Driver for Online Time-Optimal Maneuver Planning},
+  author={Taddei, Sebastiano and Piccinini, Mattia and Biral, Francesco},
+  booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={640--647},
+  year={2025},
+  organization={IEEE}
+}

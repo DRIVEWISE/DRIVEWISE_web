@@ -1,0 +1,10 @@
+@article{piccinini2025optimal,
+  title={How optimal is the minimum-time manoeuvre of an artificial race driver?},
+  author={Piccinini, Mattia and Taddei, Sebastiano and Pagot, Edoardo and Bertolazzi, Enrico and Biral, Francesco},
+  journal={Vehicle System Dynamics},
+  volume={63},
+  number={12},
+  pages={2213--2240},
+  year={2025},
+  publisher={Taylor \& Francis}
+}

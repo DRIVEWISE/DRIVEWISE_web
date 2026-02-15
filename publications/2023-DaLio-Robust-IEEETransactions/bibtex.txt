@@ -1,0 +1,10 @@
+@article{da2023robust,
+  title={Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles},
+  author={Da Lio, Mauro and Piccinini, Mattia and Biral, Francesco},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={24},
+  number={12},
+  pages={13670--13684},
+  year={2023},
+  publisher={IEEE}
+}

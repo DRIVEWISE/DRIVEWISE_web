@@ -1,0 +1,10 @@
+@article{piccinini2023predictive,
+  title={A predictive neural hierarchical framework for on-line time-optimal motion planning and control of black-box vehicle models},
+  author={Piccinini, Mattia and Larcher, Matteo and Pagot, Edoardo and Piscini, Davide and Pasquato, Leone and Biral, Francesco},
+  journal={Vehicle system dynamics},
+  volume={61},
+  number={1},
+  pages={83--110},
+  year={2023},
+  publisher={Taylor \& Francis}
+}

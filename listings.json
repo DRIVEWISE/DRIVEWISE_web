@@ -2,10 +2,16 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/2025-Piazza-Real-RAL/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html",
+      "/publications/2024-Piccinini-Computationally-OJITS/index.html",
       "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
       "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
       "/publications/2023-DaLio-Robust-IEEETransactions/index.html",
       "/publications/2022-Piccinini-Predictive-VSD/index.html",
+      "/publications/2025-Taddei-Biasing-IEEEIV/index.html",
+      "/publications/2024-Piccinini-Impacts-IFAC/index.html",
+      "/publications/2024-Piazza-MPTree-IFAC/index.html",
       "/publications/2022-Pagot-Real-IROS/index.html",
       "/publications/2020-Pagot-Real-IROS/index.html",
       "/publications/2023-Piccinini-Physics-Automatica/index.html",
@@ -24,7 +30,10 @@
       "/publications/2022-Piazza-MPTREE-IED/index.html",
       "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
       "/publications/2023-Piazza-Motion-IED/index.html",
-      "/publications/2023-Piccinini-Physics-Automatica/index.html"
+      "/publications/2023-Piccinini-Physics-Automatica/index.html",
+      "/publications/2024-Piazza-MPTree-IFAC/index.html",
+      "/publications/2024-Piccinini-Impacts-IFAC/index.html",
+      "/publications/2025-Piazza-Real-RAL/index.html"
     ]
   },
   {
@@ -48,14 +57,22 @@
       "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
       "/publications/2023-Piazza-Motion-IED/index.html",
       "/publications/2023-Piccinini-ARD-IED/index.html",
-      "/publications/2023-Piccinini-Physics-Automatica/index.html"
+      "/publications/2023-Piccinini-Physics-Automatica/index.html",
+      "/publications/2024-Piazza-MPTree-IFAC/index.html",
+      "/publications/2024-Piccinini-Computationally-OJITS/index.html",
+      "/publications/2024-Piccinini-Impacts-IFAC/index.html",
+      "/publications/2025-Piazza-Real-RAL/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html",
+      "/publications/2025-Taddei-Biasing-IEEEIV/index.html"
     ]
   },
   {
     "listing": "/people/bertolazzi-enrico/index.html",
     "items": [
       "/publications/2022-Pagot-Real-IROS/index.html",
-      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html"
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
+      "/publications/2025-Piazza-Real-RAL/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html"
     ]
   },
   {
@@ -82,7 +99,8 @@
     "items": [
       "/publications/2020-Pagot-Real-IROS/index.html",
       "/publications/2022-Pagot-Real-IROS/index.html",
-      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html"
+      "/publications/2023-Pagot-FastPlanning-IEEEAccess/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html"
     ]
   },
   {
@@ -96,7 +114,13 @@
       "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
       "/publications/2023-Piazza-Motion-IED/index.html",
       "/publications/2023-Piccinini-ARD-IED/index.html",
-      "/publications/2023-Piccinini-Physics-Automatica/index.html"
+      "/publications/2023-Piccinini-Physics-Automatica/index.html",
+      "/publications/2024-Piazza-MPTree-IFAC/index.html",
+      "/publications/2024-Piccinini-Computationally-OJITS/index.html",
+      "/publications/2024-Piccinini-Impacts-IFAC/index.html",
+      "/publications/2025-Piazza-Real-RAL/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html",
+      "/publications/2025-Taddei-Biasing-IEEEIV/index.html"
     ]
   },
   {
@@ -104,7 +128,12 @@
     "items": [
       "/publications/2023-Physics-Piccini-IEEEAccess/index.html",
       "/publications/2023-Piccinini-ARD-IED/index.html",
-      "/publications/2023-Piccinini-Physics-Automatica/index.html"
+      "/publications/2023-Piccinini-Physics-Automatica/index.html",
+      "/publications/2024-Piazza-MPTree-IFAC/index.html",
+      "/publications/2024-Piccinini-Impacts-IFAC/index.html",
+      "/publications/2025-Piazza-Real-RAL/index.html",
+      "/publications/2025-Piccinini-How-VSD/index.html",
+      "/publications/2025-Taddei-Biasing-IEEEIV/index.html"
     ]
   }
 ]
